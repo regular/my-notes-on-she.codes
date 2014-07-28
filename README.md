@@ -1,3 +1,3 @@
 my-notes-on-she.codes
 =====================
-Hey!
+This repository is for my personal she.codes stuff
